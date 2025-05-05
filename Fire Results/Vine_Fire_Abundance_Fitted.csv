@@ -1,0 +1,5 @@
+"","Species","Start_NoFire_Mean","Start_NoFire_Low","Start_NoFire_High","Start_Fire_Mean","Start_Fire_Low","Start_Fire_High","Start_NoFire_Mean_HA","Start_NoFire_Low_Ha","Start_NoFire_High_Ha","Start_Fire_Mean_HA","Start_Fire_Low_Ha","Start_Fire_High_Ha"
+"1","Lonicera japonica",0.092,0.036,0.359,0,0,0,1.3,0.51,5.08,0,0,0
+"2","All",2.069,1.341,3.4,0.206,0.036,0.79,29.27,18.97,48.1,2.91,0.51,11.18
+"3","Smilax",1.551,0.948,2.72,0.206,0.037,0.8,21.94,13.41,38.48,2.91,0.52,11.32
+"4","Vitis",0.203,0.117,0.503,0,0,0,2.87,1.66,7.12,0,0,0

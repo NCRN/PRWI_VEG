@@ -1,0 +1,2 @@
+"","Species","TotalCount","Year_Per_Change","Year_Change_low95","Year_Change_upper95","Prob_Decreasing","Prob_Increasing","FireSlope","Fire_Slope_low_95","Fire_Slope_up_95","Prob_Fire_Decreasing","Prob_Fire_Increasing","Year_Fire_Change","Year_Fire_Change_low95","Year_Fire_Change_upper95","Model"
+"1","All",3172,0,-0.01,0.01,0.38,0.62,0.013,-0.031,0.058,0.276,0.724,0.02,-0.03,0.06,"Poisson"

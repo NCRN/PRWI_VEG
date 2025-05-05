@@ -1,0 +1,6 @@
+"","Species","Start_NoFire_Mean","Start_NoFire_Low","Start_NoFire_High","Start_Fire_Mean","Start_Fire_Low","Start_Fire_High","Start_NoFire_Mean_HA","Start_NoFire_Low_Ha","Start_NoFire_High_Ha","Start_Fire_Mean_HA","Start_Fire_Low_Ha","Start_Fire_High_Ha"
+"1","Euonymus americanus",0.046,0.007,0.35,0,0,0.003,38.33,5.83,291.67,0,0,2.5
+"2","Kalmia latifolia",0.667,0.254,2.174,6.188,2.033,28.904,555.83,211.67,1811.67,5156.67,1694.17,24086.67
+"3","Lyonia ligustrina",0.169,0.046,0.844,0.29,0.04,2.478,140.83,38.33,703.33,241.67,33.33,2065
+"4","All",1.033,0.336,3.964,5.128,1.577,22.407,860.83,280,3303.33,4273.33,1314.17,18672.5
+"5","Vaccinium",0.051,0.01,0.434,0.146,0.007,2.935,42.5,8.33,361.67,121.67,5.83,2445.83

@@ -1,0 +1,8 @@
+"","Species","Start_NoFire_Mean","Start_NoFire_Low","Start_NoFire_High","Start_Fire_Mean","Start_Fire_Low","Start_Fire_High","Start_NoFire_Mean_HA","Start_NoFire_Low_Ha","Start_NoFire_High_Ha","Start_Fire_Mean_HA","Start_Fire_Low_Ha","Start_Fire_High_Ha"
+"1","Gaylussacia spp.",0.041,0.031,0.054,0.13,0.072,0.203,200.86,151.87,264.55,636.87,352.73,994.5
+"2","Kalmia latifolia",0.07,0.045,0.102,0.201,0.032,0.504,342.93,220.45,499.7,984.7,156.77,2469.1
+"3","Lonicera japonica",0.003,0.002,0.004,0,0,0.062,14.7,9.8,19.6,0,0,303.74
+"4","Smilax glauca",0.007,0.006,0.008,0.011,0.006,0.014,34.29,29.39,39.19,53.89,29.39,68.59
+"5","Smilax rotundifolia",0.017,0.014,0.02,0.062,0.043,0.083,83.28,68.59,97.98,303.74,210.66,406.62
+"6","Toxicodendron radicans",0.002,0.001,0.002,0,0,0.06,9.8,4.9,9.8,0,0,293.94
+"7","Vaccinium spp.",0.03,0.025,0.036,0.08,0.051,0.114,146.97,122.48,176.36,391.92,249.85,558.49

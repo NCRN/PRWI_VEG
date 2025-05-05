@@ -1,0 +1,6 @@
+"","Species","NoFire_Mean","NoFire_Low","NoFire_High","Fire_Mean","Fire_Low","Fire_High"
+"1","Euonymus americanus",0.447,0.347,0.549,NA,NA,NA
+"2","Kalmia latifolia",0.062,0.038,0.094,0,0,0.015
+"3","Lyonia ligustrina",0.307,0.255,0.361,0.065,0.01,0.196
+"4","All",0.248,0.219,0.279,0.176,0.113,0.256
+"5","Vaccinium",0.519,0.408,0.627,0.714,0.518,0.867
